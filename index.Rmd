@@ -1,0 +1,30 @@
+---
+title: "Curso de Ciência de Dados"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Seção 1
+
+Bla
+
+## Seção 1.1
+
+Blabla
+
+### Seção 1.1.1
+
+Blablabla
+
+# Seção 2
+
+## Seção 2.1
+ 
+### Seção 2.1.1
+
+## Seção 2.2
+
+### Seção 2.2.1
