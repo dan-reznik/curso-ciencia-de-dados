@@ -1,30 +1,24 @@
 ---
 title: "Curso de Ciência de Dados"
-output: html_document
+author: "Dan Reznik"
+date: "Novembro de 2019"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Seção 1
+# Apresentação
 
-Bla bla
-Bla bla
-## Seção 1.1
+# Estrutura dos Cursos
+## Ementa (24h)
 
-Blabla
-xxxx
-### Seção 1.1.1
+## Ementa (120h)
 
-Blablabla
-
-# Seção 2
-
-## Seção 2.1
- 
-### Seção 2.1.1
-
-## Seção 2.2
-
-### Seção 2.2.1
