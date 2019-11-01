@@ -9,15 +9,21 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: false
----
+--- 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+***
+# Apresentação {-}
 
-# Apresentação
+Sou **consultor e professor** em Ciência de Dados, 
+formado pela UC-Berkeley. Há 8 anos faço projetos e treinamento em Ciência de Dados no Brasil. Sou especialista no **ecossistema R/tidyverse/shiny** com foco em resultados (automação de relatórios, visualização, dashboards).
 
-# Estrutura dos Cursos
+Além de projetos de consultoria, tenho oferecido **cursos de capacitação hands-on**, direcionados a resultados. Meus alunos são profissionais de TI, na área de dados e negócios, e executivos. Recentemente realizei treinamentos na NeoEnergia e Ministério Público, lecionando na PUC, FGV onde somos fãs do R/Tidyverse, PowerBI etc.
+
+***
+# Estrutura dos Cursos {-}
 ## Ementa - 6 encontros (24h) {-}
 
 - Introdução
@@ -56,38 +62,6 @@ regex
 - Projeto II
   - Investigação de projeto específico ao cliente
   
-  
-## Ementa - 20 encontros (80h) {-}
-- Introdução
-  -
-  -
-  -
-
-- Data Wrangling
-  - 
-  -
-  -
-  
-- Visualização de Dados
-  - 
-  -
-  -
-  
-- Modelagem de Dados
-  - 
-  -
-  -
-
-- R em Produção
-  -
-  -
-  -
-  
-- Capstone Project
-  -
-  -
-  -
-   
 
 ## Ementa - 30 encontros  (120h) {-}
 
