@@ -27,8 +27,8 @@ formado pela UC-Berkeley. Há 8 anos faço projetos e treinamento em Ciência de
 Além de projetos de consultoria, tenho oferecido **cursos de capacitação hands-on**, direcionados a resultados. Meus alunos são profissionais de TI, na área de dados e negócios, e executivos. Recentemente realizei treinamentos na NeoEnergia e Ministério Público, lecionando na PUC, FGV onde somos fãs do R/Tidyverse, PowerBI etc.
 
 ***
-# Estrutura dos Cursos {-}
-## Ementa - 6 encontros (24h) {-}
+# Ementa dos Cursos {-}
+## Básico - 6 encontros de 4 horas {-}
 
 - Introdução
   - Instalação do R, RStudio, pacotes, tidyverse
@@ -67,7 +67,7 @@ regex
   - Investigação de projeto específico ao cliente
   
 
-## Ementa - 30 encontros  (120h) {-}
+## Avançado - 20 encontros de 4 horas {-}
 
 - Introdução
   - O que é data science e R
