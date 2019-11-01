@@ -15,6 +15,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ***
+
+<!-- ![](pics/Dan_image.jpg) -->
+
+
 # Apresentação {-}
 
 Sou **consultor e professor** em Ciência de Dados, 
@@ -77,7 +81,7 @@ regex
   - Criação de dataframes: manualmente, a partir de arquivos
   - Manipulação de dataframes, operações básicas, retangulares
   - Tipos de colunas: numéricas, strings, categóricas, datas
-  - Iteração em colunas ""lista"" com pacote ""purrr""
+  - Iteração em colunas "lista" com pacote "purrr"
   - Junção de dataframes (joins)
   
 - Visualização de Dados
