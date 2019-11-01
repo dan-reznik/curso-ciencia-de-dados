@@ -18,7 +18,121 @@ knitr::opts_chunk$set(echo = TRUE)
 # Apresentação
 
 # Estrutura dos Cursos
-## Ementa (24h)
+## Ementa - 6 encontros (24h) {-}
 
-## Ementa (120h)
+- Introdução
+  - Instalação do R, RStudio, pacotes, tidyverse
+  - O que é data science e R
+  - Uso e navegação no Rstudio, uso no console
+  - Tipos (numéricos, inteiros, strings, vetores, lógicos)
+  - Scripts, funções, notebook
+  - Dataframes: nrow, ncol, pipe, mutate, rename
+  - Criação / leitura de csv, delimitador, locales
+  - Manipulacao de datas
+  - Exemplo 1 
 
+- Data Wrangling
+  - Tidyverse, cheatsheets, base-r
+  - Leitura arquivos excel, diretamente do site
+  - Manipulação de dataframes, verbos básicos, operações retangulares
+  - Iteração em colunas ""lista"" com pacote ""purrr""
+  - Junção de dataframes (joins), fuzzyjoins
+  - Sumarização: média, mediana, desvios padrões
+regex
+
+- Visualização de Dados
+  - Introdução à visualização com ggplot2
+  - Tipos de gráficos: pontos, dispersão, barras, curvas, boxplots, histogramas
+  - Adicionando estilos, camadas, faceteamento
+  - Vizualização e Computação com Grafos
+  
+- Interop e Operacionalização
+  - Interop: JSON, web scraping, bancos de dados, github/bitbucket
+  - Operacionalização de soluções: Rscript, shiny, REST
+  
+- Projeto I
+  - Investigação de projeto específico ao cliente
+  
+- Projeto II
+  - Investigação de projeto específico ao cliente
+  
+  
+## Ementa - 20 encontros (80h) {-}
+- Introdução
+  -
+  -
+  -
+
+- Data Wrangling
+  - 
+  -
+  -
+  
+- Visualização de Dados
+  - 
+  -
+  -
+  
+- Modelagem de Dados
+  - 
+  -
+  -
+
+- R em Produção
+  -
+  -
+  -
+  
+- Capstone Project
+  -
+  -
+  -
+   
+
+## Ementa - 30 encontros  (120h) {-}
+
+- Introdução
+  - O que é data science e R
+  - Instalação do R, RStudio, pacotes, tidyverse
+  - Uso e navegação no Rstudio, uso no console
+  - Tipos e data structures em R, vetores, listas
+  - Funções, scripts, notebooks
+
+- Data Wrangling
+  - Introdução ao tidyverse, cheatsheets
+  - Criação de dataframes: manualmente, a partir de arquivos
+  - Manipulação de dataframes, operações básicas, retangulares
+  - Tipos de colunas: numéricas, strings, categóricas, datas
+  - Iteração em colunas ""lista"" com pacote ""purrr""
+  - Junção de dataframes (joins)
+  
+- Visualização de Dados
+  - Introdução à visualização com ggplot2
+  - Tipos de graficos: pontos, dispersão, barras, curvas, boxplots, histogramas
+  - Gráficos combinados, faceteamento
+  -Melhores práticas em visualização
+  - Gráficos animados
+  
+- Modelagem de Dados
+  - Cálculos estatísticos a partir de data frames: média, mediana, desvios padrões, diferença de médias
+  - Algoritmos de modelagem: supervisionados vs não supervisionados
+  - Exemplos de Regressão Linear, Árvores de Decisão, ANN, K-means, etc., com pacote mlr
+  - Exemplos de treinamento, teste, cross-validation, ROC curve, precisão, recall, etc.
+  -Manipulando muitos modelos juntos
+AzureML
+
+- R em Produção
+  - Introdução ao Shiny
+  - Uso do R com PowerBI
+  - Conexão com banco de dados
+  - Uso de JSON
+  - Criação e publicação de Dashboard com flexdashboard
+  - Criação e operacionalização de modelos via REST API
+  - Pacotes R
+  - Docker
+  
+- Capstone Project
+  - Definição do projeto
+  - Orientação, Desenvolvimento
+  - Documentação (knitr)
+  
